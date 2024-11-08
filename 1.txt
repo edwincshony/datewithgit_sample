@@ -2,3 +2,5 @@ added some features on text 1 and something
 
 
 this is Edwin c shony
+
+added more something to reflect in GitHub server
